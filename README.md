@@ -19,7 +19,7 @@ This Chrome extension generates random strong Password directly within your brow
 - Click the ``Load unpacked`` button which and load the Password Generator Folder
 - Now, the extension is available in list of ``All Extensions``
 
-![Image](https://raw.githubusercontent.com/Alitindrawan24/password-generator-chrome-extension/main/assets/images.png)
+![Image](https://raw.githubusercontent.com/Alitindrawan24/password-generator-chrome-extension/main/assets/image.png)
     
 
 ## Credit
